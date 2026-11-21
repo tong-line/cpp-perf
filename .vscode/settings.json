@@ -1,0 +1,22 @@
+{
+  "files.associations": {
+    "*.cc": "cpp",
+    "*.cpp": "cpp",
+    "*.cxx": "cpp",
+    "*.h": "cpp",
+    "*.hh": "cpp",
+    "*.hpp": "cpp",
+    "*.hxx": "cpp",
+    "*.ipp": "cpp",
+    "*.tpp": "cpp"
+  },
+  "cmake.sourceDirectory": "${workspaceFolder}/MyTinySTL",
+  "cmake.buildDirectory": "${workspaceFolder}/MyTinySTL/build",
+  "cmake.generator": "Ninja",
+  "cmake.configureSettings": {
+    "CMAKE_BUILD_TYPE": "Release",
+    "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
+  },
+  "C_Cpp.default.compileCommands": "${workspaceFolder}/MyTinySTL/build/compile_commands.json",
+  "C_Cpp.default.cppStandard": "c++11"
+}
